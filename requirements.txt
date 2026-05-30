@@ -1,0 +1,6 @@
+# === Core Dependencies ===
+langchain>=0.2.0            # Core framework for building LLM applications
+langchain-google-genai>=1.0.0 # Official Gemini integration for LangChain
+streamlit>=1.35.0           # Framework for building the interactive web UI
+requests>=2.31.0            # HTTP library for fetching data (e.g., Open-Meteo API)
+python-dotenv>=1.0.0        # Loads environment variables from a .env file
