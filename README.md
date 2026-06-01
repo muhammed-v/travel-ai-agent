@@ -1,6 +1,6 @@
 # Agentic AI Travel Planning Assistant
 
-A comprehensive, production-ready AI travel planning assistant utilizing Python, LangChain, Gemini Flash Lite, Streamlit, and local JSON datasets.
+A comprehensive, production-ready AI travel planning assistant utilizing Python, LangChain, Gemini Flash Latest, Streamlit, and local JSON datasets.
 
 ## Project Structure
 
@@ -11,7 +11,7 @@ A comprehensive, production-ready AI travel planning assistant utilizing Python,
   * `services/`: Helper services, such as data loading utilities for JSON parsing and other shared utility functions.
   * `ui/`: Streamlit user interface implementation.
 * `data/`: Local JSON datasets for flights, hotels, and places.
-* `tests/`: Unit and integration tests for the project.
+
 
 ## Getting Started
 
