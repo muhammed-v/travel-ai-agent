@@ -1,6 +1,5 @@
 # Virtual environments
 venv/
-env/
 .env
 
 # Logs and databases
@@ -10,9 +9,6 @@ logs/
 # Python cache
 __pycache__/
 *.pyc
-.pytest_cache/
 
-# IDE and OS files
+# IDE files
 .vscode/
-.idea/
-.DS_Store
